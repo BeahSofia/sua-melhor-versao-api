@@ -42,4 +42,4 @@ Acesse: http://localhost:3000
 
 ---
 
-Feito com ❤️ por Beatriz Silva.
+Feito com ❤️ por Beatriz Sofia.
