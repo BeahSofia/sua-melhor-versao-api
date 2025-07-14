@@ -1,8 +1,8 @@
 import express from 'express';
-import dicasAlimentacaoRouter from './routes/dicasAlimentacao.js';
-import exerciciosDesestresseRouter from './routes/exerciciosDesestresse.js';
-import simuladosRouter from './routes/simulados.js';
-import recursosEstudoRouter from './routes/recursosEstudo.js';
+import dicasAlimentacaoRouter from './dicasAlimentacao.js';
+import exerciciosDesestresseRouter from './exerciciosDesestresse.js';
+import simuladosRouter from './simulados.js';
+import recursosEstudoRouter from './recursosEstudo.js';
 
 const app = express();
 const port = process.env.PORT || 3000;
