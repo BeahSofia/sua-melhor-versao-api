@@ -1,0 +1,13 @@
+{
+  "name": "sua-melhor-versao-api",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "API utilitária para estudantes cuidarem da mente, corpo e estudos",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
